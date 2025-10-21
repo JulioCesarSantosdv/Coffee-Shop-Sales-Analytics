@@ -20,13 +20,17 @@ Construir uma base analítica robusta e escalável, aplicando boas práticas de:
 - Criação de modelo estrela (Kimball)
 - Desenvolvimento de dashboards dinâmicos e intuitivos
 - Geração de insights estratégicos de negócio
+- 
+  ## Créditos
+
+- **Dataset Utilizado:** [Coffee Shop Sales – Kaggle](https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales)    
 
 ##  Stack de Tecnologias
 
 | Componente | Função |
 |------------|--------|
-| MySQL | ETL, limpeza e modelagem dimensional |
-| Power BI | Modelagem DAX e visualização interativa |
+| MySQL 8.0  | ETL, limpeza e modelagem dimensional |
+| Power BI 2025 | Modelagem DAX e visualização interativa |
 | Excel | Inspeção e verificação inicial dos dados |
 | XAMPP / phpMyAdmin | Ambiente de desenvolvimento local |
 
@@ -135,13 +139,6 @@ Construir uma base analítica robusta e escalável, aplicando boas práticas de:
 
 > “O Barista Espresso sozinho gera mais receita que os 20 produtos menos vendidos juntos —  
 > uma demonstração do poder dos produtos âncora, mas também um alerta sobre a importância da diversificação.”
-
----
-
-## Créditos
-
-- **Dataset Utilizado:** [Coffee Shop Sales – Kaggle](https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales)   
-- **Ferramentas:** MySQL 8.0 | Power BI 2025 | XAMPP | Excel  
 
 ---
 
