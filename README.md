@@ -20,8 +20,8 @@ Construir uma base analítica robusta e escalável, aplicando boas práticas de:
 - Criação de modelo estrela (Kimball)
 - Desenvolvimento de dashboards dinâmicos e intuitivos
 - Geração de insights estratégicos de negócio
-- 
-  ## Créditos
+
+## Créditos
 
 - **Dataset Utilizado:** [Coffee Shop Sales – Kaggle](https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales)    
 
